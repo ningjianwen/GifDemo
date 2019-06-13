@@ -8,7 +8,7 @@ iOS开发中，大部分时候我们显示一张静态图就可以了，但是�
 1. **SDWebImage**
 2. **YYImage**
 
-![GifDemo.gif]()
+![GifDemo.gif](https://upload-images.jianshu.io/upload_images/767049-7598a4efd686c9bc.gif?imageMogr2/auto-orient/strip)
 
 ## 二、显示本地gif图
 SDWebImage和YYImage的显示本地图片代码。
@@ -86,3 +86,5 @@ end
 ## 五、没有demo的文章不是好文章
 
 **SDWebImage**和**YYImage**框架显示本地和网络gif图的[demo传送门](https://github.com/ningjianwen/GifDemo.git)
+
+
